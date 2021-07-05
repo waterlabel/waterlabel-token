@@ -1,5 +1,5 @@
 # waterlabel-token
-WaterLabel(Label) is an ERC-20 compatible token. It implements governance-inspired features with openzeppelin's ERC20Snapshot.
+WaterLabel(Label) is an ERC-20 compatible token.
 
 ## Setup
 - Create an file named `.env` and fill the enviroment variables
